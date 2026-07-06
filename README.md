@@ -174,8 +174,7 @@ Beyond report creation, this work demonstrates the ability to:
 - Improve reporting quality,
 - And convert educational operational data into meaningful strategic insights.
 
-# "Good analytics is not just about creating dashboards; it is about asking questions, validating assumptions, and solving real 
-#  business problems."
+# "Good analytics is not just about creating dashboards; it is about asking questions, validating assumptions, and solving real business problems."
 ____________________________________________________________________________________________________________________________________________
 
 
