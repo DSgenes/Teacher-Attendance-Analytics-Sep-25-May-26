@@ -141,17 +141,17 @@ This ensured that organizational context was preserved while maintaining analyti
 
 Through this project, I demonstrated:
 
-✅ Data Cleaning & Transformation
-✅ Attendance Analytics
-✅ HR Workforce Analysis
-✅ Trend Analysis
-✅ Data Validation
-✅ Root Cause Analysis
-✅ Problem Solving
-✅ Stakeholder Communication
-✅ Business Insight Generation
-✅ Educational Data Analytics
-✅ Analytical Storytelling
+- Data Cleaning & Transformation
+- Attendance Analytics
+- HR Workforce Analysis
+- Trend Analysis
+- Data Validation
+- Root Cause Analysis
+- Problem Solving
+- Stakeholder Communication
+- Business Insight Generation
+- Educational Data Analytics
+- Analytical Storytelling
 
 # Tools Used
 - Microsoft Excel
