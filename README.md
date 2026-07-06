@@ -1,27 +1,26 @@
-# Teacher Attendance Analytics & Workforce Insights Report
+# From ERP Data to Educational Workforce Insights: Attendance Analytics & Decision Support 
 
 A Data-Driven Workforce Analysis Project for Academic Operations Improvement
 
-# Project Highlights
+# Case Study
+# Project Statement
 
-As an ICT Instructor at Roots Millennium School, I not only focus on developing students' hands-on digital skills but also leverage
-data analytics to support organizational decision-making and academic operations improvement.
-This project demonstrates how educational workforce data can be transformed into actionable insights using data analysis techniques.
-The objective was to analyze teacher attendance behavior, leave patterns, punctuality trends, and operational anomalies to support 
-management in making informed decisions.
+As an ICT Instructor at Roots Millennium School, Ms. Anam aimed to extend her role beyond classroom instructions by leveraging data analytics to support organizational decision-making and academic operations management.
 
-# Business Problem
+The first challenge involved extracting and transforming raw faculty attendance records directly from the school's ERP (Enterprise Resource Planning) system. The extracted dataset contained attendance logs, leave records, time-in/time-out details, holidays, and employee information spanning multiple academic months.
 
-The school management required a comprehensive analysis of faculty attendance records to answer key operational questions:
+The objective of this project was to convert this raw ERP-generated attendance data into actionable workforce insights by answering key organizational questions:
 
-- What is the overall teacher attendance performance?
-- Which teachers maintain the highest attendance rates?
-- What are the monthly attendance and leave trends?
-- Which staff members require attendance monitoring?
-- How do sick leaves impact workforce availability?
-- Are there any inconsistencies or data quality issues affecting reporting accuracy?
+- What is the overall teacher attendance performance across the academic session?
+- Which teachers demonstrate the highest attendance consistency?
+- What are the patterns of leave utilization?
+- How do attendance and leave trends vary across different months?
+- What impact do sick leaves have on workforce availability?
+- Are there any discrepancies or data quality issues affecting reporting accuracy?
 
-The challenge was not only to build excel reports but also to identify and resolve hidden data discrepancies to ensure reliable reporting.
+During the analysis process, Ms. Anam identified and resolved critical data inconsistencies through independent investigation and management consultation. One significant discrepancy involved Winter Break periods being incorrectly recorded as employee leave instead of institutional holidays. By validating records against the academic calendar and incorporating stakeholder feedback, she improved data accuracy and ensured reliable reporting.
+
+This project demonstrates not only technical data analysis skills but also problem-solving ability, data validation expertise, stakeholder management, and the application of analytical thinking within an educational environment.
 ___________________________________________________________________________________________________________________________________________
 
 # Dataset Overview
@@ -76,56 +75,12 @@ The project includes the following analytical views:
 # 7. Sick Leave Analysis
 - Health-related Absence Patterns
 __________________________________________________________________________________________________________________________________________
-# Key Insights Generated
 
-# Attendance Performance
-- Overall organizational attendance rate remained at 96%, indicating strong workforce commitment.
-- Multiple teachers achieved 100% attendance performance, demonstrating exceptional consistency.
-
-# Leave Analysis
-- A total of 132 leave days were recorded during the analysis period.
-- Leave frequency was highest during January (31 leaves) and February (25 leaves).
-
-# Attendance Trends
-- Teacher attendance peaked during April (463 attendance records).
-- Attendance levels remained stable throughout the academic cycle.
-
-# Sick Leave Patterns
-- Total sick leave instances recorded: 67.
-- Sick leave utilization varied significantly among employees, highlighting areas for workforce wellness monitoring.
-__________________________________________________________________________________________________________________________________________
-# Data Quality Challenge Identified
-
-During Report review sessions, a faculty member raised an important concern:
-
-"Winter Break days are being counted as employee leave, whereas these dates should actually be classified as official holidays."
-
-This observation revealed a critical data quality discrepancy that could have resulted in inaccurate leave reporting and misleading
-workforce analytics.
-__________________________________________________________________________________________________________________________________________
 # Problem-Solving Approach
 
-Instead of accepting the dataset at face value, I conducted a detailed validation exercise:
-
-# Step 1: Issue Identification
-- Compared leave records with the official academic calendar.
-- Identified that Winter Break periods had been incorrectly categorized as employee leave.
-
-# Step 2: Root Cause Analysis
-- Determined that holiday periods were not properly excluded from leave calculations.
-
-# Step 3: Data Cleansing & Correction
-- Reclassified Winter Break records as institutional holidays.
-- Removed these entries from leave calculations to ensure reporting accuracy.
-
-# Step 4: Report Validation
-- Discussed findings with faculty members and verified corrections against official school schedules.
-
-This process significantly improved the reliability and credibility of the final analysis.
-___________________________________________________________________________________________________________________________________________
 # Observation & Reporting Transparency
 
-Another important concern raised by senior faculty members was:
+An important concern raised by two senior faculty members was:
 
 "Senior teachers have historically been granted additional approved leaves compared to newly appointed staff."
 
@@ -136,6 +91,7 @@ Leave comparisons were interpreted considering differences in employee tenure an
 The analysis focused on identifying patterns rather than evaluating employee performance or fairness of leave allocation.
 
 This ensured that organizational context was preserved while maintaining analytical integrity.
+__________________________________________________________________________________________________________________________________________
 
 # Skills Demonstrated
 
@@ -163,7 +119,7 @@ Through this project, I demonstrated:
 
 # Project Outcome
 
-This project transformed raw attendance records into actionable organizational insights while ensuring data accuracy through stakeholder
+This project transformed raw attendance records into actionable organizational insights while ensuring data accuracy through management
 engagement and analytical problem-solving.
 
 Beyond report creation, this work demonstrates the ability to:
@@ -173,10 +129,10 @@ Beyond report creation, this work demonstrates the ability to:
 - Incorporate stakeholder feedback,
 - Improve reporting quality,
 - And convert educational operational data into meaningful strategic insights.
-
-# "Good analytics is not just about creating dashboards or reports; it is about asking questions, validating assumptions, and solving real business problems."
 ______________________________________________________________________________________________________________________________________________________________
-# Da
+
+# Data Analysis in Excel Using Pivot Automation
+
 # 1. Employee Attendance Analysis
 
 ![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-1.png)
@@ -202,6 +158,7 @@ ________________________________________________________________________________
 # Sick Leave Analysis
 ![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-11.png)
 ![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-12.png)
-![image_alt]()
 _________________________________________________________________________________________________________________________________________________
+
+# "Good analytics is not just about creating dashboards or reports; it is about asking questions, validating assumptions, and solving real business problems."
 
