@@ -175,7 +175,33 @@ Beyond report creation, this work demonstrates the ability to:
 - And convert educational operational data into meaningful strategic insights.
 
 # "Good analytics is not just about creating dashboards or reports; it is about asking questions, validating assumptions, and solving real business problems."
-____________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________
+# Da
+# 1. Employee Attendance Analysis
 
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-1.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-2.png)
 
-  
+# Leave Analysis
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-3.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-4.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-5.png)
+
+# Monthly Attendance Trend
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-6.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-7.png)
+
+# Monthly Teachers Leave Analysis
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-8.png)
+
+# Monthly Leave Trend
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-9.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-10.png)
+
+# Sick Leave Analysis
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-11.png)
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-12.png)
+![image_alt]()
+_________________________________________________________________________________________________________________________________________________
+
