@@ -159,6 +159,31 @@ ________________________________________________________________________________
 ![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-11.png)
 ![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/0892c42bfa53a8af7bce81234beb72c9050ce6c1/Image-12.png)
 _________________________________________________________________________________________________________________________________________________
+# Dashboarding in Power BI
 
+# Introduction
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Introduction.png)
+
+# Executive Overview
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Executive%20View.png)
+
+# Teacher Performance
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Teacher%20Performance.png)
+
+# Leave Analysis
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Leave%20Analysis.png)
+
+# Sick Leave Analysis
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Sick%20Leave%20Analysis.png)
+
+# Business Insights
+
+![image_alt](https://github.com/DSgenes/Teacher-Attendance-Analytics-Sep-25-May-26/blob/5696fae4b157fef47120edeadea2d332b040cddf/Business%20Insights.png)
+__________________________________________________________________________________________________________________________________________________
 # "Good analytics is not just about creating dashboards or reports; it is about asking questions, validating assumptions, and solving real business problems."
 
